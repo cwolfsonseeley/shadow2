@@ -1,0 +1,15 @@
+Package: shadow2
+Type: Package
+Title: Retrieve external datasets
+Version: 0.1.4
+Author: Caleb Wolfson-Seeley
+Maintainer: Caleb Wolfson-Seeley <cwolfsonseeley@berkeley.edu>
+Description: Simplifies import of external data for analysis purposes
+License: Internal use only
+Encoding: UTF-8
+LazyData: true
+Imports:
+    readr,
+    dplyr,
+    getcdw
+RoxygenNote: 7.1.2
